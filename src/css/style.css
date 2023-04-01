@@ -2487,6 +2487,11 @@ footer.footer {
         color: #fff;
         font-weight: 600;
     }
+    .page-title-content .h4 {
+        font-size: 25px;
+        color: #fff;
+        font-weight: 600;
+    }
     .page-title-wrap:before{
     content: "";
     position: absolute;
